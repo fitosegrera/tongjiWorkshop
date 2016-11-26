@@ -1,0 +1,16 @@
+{
+  "name": "tongjiserver",
+  "version": "0.0.1",
+  "description": "this is a server for a workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "fito_segrera",
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.14.0"
+  }
+}
